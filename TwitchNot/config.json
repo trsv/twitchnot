@@ -1,0 +1,4 @@
+{
+    "channel":"mirongaming",
+    "text":"Начался стрим на twitch канале %channel%! \nНазвание: %name% \nИгра: %game% \nСсылка: %url%"
+}
